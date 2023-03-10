@@ -4,11 +4,15 @@ Olá! Sou José Augusto Martins
  
 🕹️ Atualmente estudo Java
 
-🐍 Tenho conhecimentos sobre Python
+🐍 Tenho conhecimentos sobre Python 3
 
 🖥️ Curso Análise e desenvolvimento de Sistemas
 
-📧 Contate-me pelo email: joseaugustomartinsqueiroz@gmail.com
+##
+<a href="https://www.linkedin.com/in/jose-augustob92/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:joseaugustomartinsqueiroz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+##
 
 <div>
   <a href="[https://github.com/Joseaugustomartins](https://github.com/Joseaugustomartins)"> 
