@@ -6,7 +6,7 @@ Olá! Sou José Augusto Martins
 
 🐍 Tenho conhecimentos sobre Python 3
 
-🖥️ Curso Análise e desenvolvimento de Sistemas
+🖥️ Curso Análise e desenvolvimento de Sistemas - Estacio
 
 ##
 <a href="https://www.linkedin.com/in/jose-augustob92/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
