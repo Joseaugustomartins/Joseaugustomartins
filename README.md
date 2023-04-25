@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Joseaugustomartins&color=006bed)
 
-Olá! Sou José Augusto Martins
+Olá! Sou José Augusto Martins!!
  
 🕹️ Atualmente estudo Java
 
