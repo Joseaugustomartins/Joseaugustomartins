@@ -2,7 +2,7 @@
 
 Olá! Sou José Augusto Martins!!
  
-🕹️ Atualmente estudo Java
+🕹️ Java
 
 🐍 Tenho conhecimentos sobre Python 3
 
