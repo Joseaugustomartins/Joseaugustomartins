@@ -4,7 +4,7 @@ Olá! Sou José Augusto Martins!!
  
 🕹️ Java
 
-🐍 Tenho conhecimentos sobre Python 3
+🐍 Python 3
 
 🖥️ Curso Análise e desenvolvimento de Sistemas - Estacio
 
