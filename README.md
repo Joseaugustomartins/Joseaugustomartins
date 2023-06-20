@@ -2,7 +2,7 @@
 
 Olá! Sou José Augusto Martins!!
  
-🕹️ Java avançado
+🕹️ Java
 
 🐍 Python 3
 
