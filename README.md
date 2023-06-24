@@ -8,7 +8,7 @@ Olá! Sou José Augusto Martins!!
 
 🖥️ Curso Análise e desenvolvimento de Sistemas - Estacio
 
-🌎 Inglês avançado
+🌎 Inglês avançado!
 
 ## ME CONTATE:
 
