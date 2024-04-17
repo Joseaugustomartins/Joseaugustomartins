@@ -9,7 +9,10 @@
 🐍 Python 3
 
 
-📌 *CURSOS E ESPECIALIZAÇÕES:* 
+
+
+
+📌 **CURSOS E ESPECIALIZAÇÕES:** 
 
 🖥️ Curso Análise e desenvolvimento de Sistemas - Estacio
 
