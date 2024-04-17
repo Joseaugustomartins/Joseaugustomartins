@@ -2,27 +2,49 @@
 
 📌 Olá! Sou José Augusto Martins!! Sou um programador Fullstck, minhas principais linguagens: 
 
-👾 JavaScript
+  👾 JavaScript
  
-🕹️ Java avançado
+  🕹️ Java avançado
 
-🐍 Python 3
+  🐍 Python 3
 
-
-
-
+<html>
+ <head>
+  <br />
+ </head>
+ <body>
+   <br />
+ </body>
+</html>
 
 📌 **CURSOS E ESPECIALIZAÇÕES:** 
 
-🖥️ Curso Análise e desenvolvimento de Sistemas - Estacio
+ 🖥️ Curso Análise e desenvolvimento de Sistemas - Estacio
 
-🥋 Dev - Samurai
+ 🥋 Dev - Samurai
 
-⚙️ Cod3r 
+ ⚙️ Cod3r 
 
 🚥 Udemy (Nelio Alves)
+<html>
+ <head>
+  <br />
+ </head>
+ <body>
+   <br />
+ </body>
+</html>
 
 🌎 Inglês avançado!
+
+<html>
+ <head>
+  <br />
+ </head>
+ <body>
+   <br />
+ </body>
+</html>
 
 ## ME CONTATE ATRAVÉS DE:
 
