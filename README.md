@@ -1,12 +1,23 @@
 ![](https://komarev.com/ghpvc/?username=Joseaugustomartins&color=006bed)
 
-Olá! Sou José Augusto Martins!!
+📌 Olá! Sou José Augusto Martins!! Sou um programador Fullstck, minhas principais linguagens: 
+
+👾 JavaScript
  
 🕹️ Java avançado
 
 🐍 Python 3
 
+
+📌 *CURSOS E ESPECIALIZAÇÕES:* 
+
 🖥️ Curso Análise e desenvolvimento de Sistemas - Estacio
+
+🥋 Dev - Samurai
+
+⚙️ Cod3r 
+
+🚥 Udemy (Nelio Alves)
 
 🌎 Inglês avançado!
 
