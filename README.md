@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Joseaugustomartins&color=006bed)
 
-📌 Olá! Sou José Augusto Martins!! Sou um programador Fullstck, minhas principais linguagens: 
+📌 Olá! Sou José Augusto Martins!! Sou um programador Fullstck, minhas principais stack: 
 
   👾 JavaScript
  
