@@ -6,7 +6,7 @@
  
   🕹️ Java avançado
 
-  🐍 Python 3
+  🐍 Python 3 avançado
 
   🎲 CSS
 
