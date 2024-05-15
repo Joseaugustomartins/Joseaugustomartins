@@ -8,8 +8,6 @@
 
   🐍 Python 3 avançado
 
-  🎲 CSS
-
 <html>
  <head>
   <br />
