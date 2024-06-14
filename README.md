@@ -8,6 +8,8 @@
 
   🐍 Python 3 avançado
 
+  ⚙️ TypeScript
+
 <html>
  <head>
   <br />
